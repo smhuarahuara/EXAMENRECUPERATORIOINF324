@@ -1,0 +1,28 @@
+body{	
+	background: url("umsa.jpg") no-repeat;
+	background-size: cover;
+    min-height: 90%; 
+}
+
+#formulario{	
+	margin:10px 140px 140px -120px;
+}
+h2{
+	text-align:center;
+}
+
+#formulario .registro{
+	float:right;
+	height:auto;
+    width: 60%;
+	color:#FFFFFF;
+    padding: 0 45px;     	
+	border-radius: 7px;
+	background-image: linear-gradient(125deg, #ff0000 0, #b958f4 16.67%, #8a48f4 33.33%, #3c3cf2 50%, #0035f0 66.67%, #0034ee 83.33%, #0034eb 100%);
+}	
+
+
+#formulario .btn{
+	width: 100%;
+	margin-top: 20px;
+}
